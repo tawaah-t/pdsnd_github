@@ -207,7 +207,7 @@ def user_stats(df, city):
         print('Oldest Users:',oldest)
         print('youngest Users:',youngest)
         print('Most common age of Users:',common)
-
+        print('The end of user states')
 
 
 
