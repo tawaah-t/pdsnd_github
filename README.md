@@ -6,7 +6,7 @@ This was created in sep 18
 ### Project Title
 US Bikeshare project
 ### Description
-Describe what your project is about and what it does
+bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
 Include the files used
