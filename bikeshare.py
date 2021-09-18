@@ -15,7 +15,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello and welcome! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
         city = input("Would you like to see data for Chicago, New York, or Washington?\n")
@@ -207,7 +207,7 @@ def user_stats(df, city):
         print('Oldest Users:',oldest)
         print('youngest Users:',youngest)
         print('Most common age of Users:',common)
-
+        print('The end of user states')
 
 
 
